@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EMailSender</string>
+    <string name="screen_send">Send</string>
+    <string name="screen_history">History</string>
+    <string name="send_header">Send an email</string>
+    <string name="send_recipient">Recipient</string>
+    <string name="send_subject">Subject</string>
+    <string name="send_body">Body</string>
+    <string name="send_attachment">Attachment:</string>
+    <string name="send_choose_attachment">Choose attachment</string>
+    <string name="send_email_client">Choose an email client:</string>
+    <string name="send_submit">Send</string>
+    <string name="history_header">History</string>
+    <string name="history_recipient">To: %1$s</string>
+    <string name="history_attachment">(with attachment)</string>
+</resources>
